@@ -1,0 +1,10 @@
+{
+    "appName": {
+        "message": "Mundash",
+        "description": "The name of the application"
+    },
+    "appDescription": {
+        "message": "It creates a dashboard from all the mundane things you want to do but don't have time to do. Like checking internet speed,internet usage,rest is left for imagination.",
+        "description": "The description of the application"
+    }
+}
